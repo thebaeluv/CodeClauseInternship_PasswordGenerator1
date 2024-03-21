@@ -1,2 +1,2 @@
-# CodeClauseInternship_PasswordGenerator1
-This is my first project on GitHub with Code Clause.
+# Password Generator
+This is my first python based project. It is an internship in Code Clause company. 
